@@ -1,0 +1,8 @@
+Flask is used for website creation. 
+The sqlite3 package is used for creating database and table is inserted in the database. 
+The pandas package is used for importing and reading data from a .csv file and used the pathlib package.
+
+About the data:
+The dataset offers a basic information of the employee of a company such as first name, last name, gender, title, and department.
+
+Database: Created the employees detailes databse with the employee table in the database. The complete data is present in single table.
